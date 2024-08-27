@@ -16,7 +16,9 @@ main {
     height: 100vh; 
 }
 
-
+.menu-icon{
+    cursor: pointer;
+}
 
 .menu-icon.active .icon:nth-child(1) {
     transform: translateY(10px) rotate(45deg);
